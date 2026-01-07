@@ -4,12 +4,27 @@
 
 This repository serves as a **portfolio hub** for selected academic projects completed during the MSc in *IT for Business Data Analytics* at IBS.
 
+**Focus areas:** SQL databases · Python data analytics · machine learning · business intelligence
+
 Each project is maintained in its **own dedicated repository** to ensure clarity, reproducibility, and professional presentation.  
 This hub provides a structured overview and direct access to those projects.
 
 ---
 
 ## Featured Projects
+
+### Python EDA — *The Good Place* (IMDb + Episode Data)  
+**Course:** Python for Data Analytics
+
+**Description:**  
+Exploratory data analysis in Python combining IMDb-derived episode ratings and votes with episode metadata (writers, directors, seasons, and US viewership). The project demonstrates data cleaning, merging, descriptive statistics, visualization, and interpretation using a reproducible Jupyter workflow.
+
+**Key Skills & Tools:**  
+Python · pandas · numpy · matplotlib · seaborn · Jupyter · Exploratory Data Analysis · Data Visualization
+
+**Repository:**  
+👉 https://github.com/MGHADERI-25/python-data-analytics-imdb-eda
+
 
 ### Cybersecurity Incident Report System  
 **Course:** Databases for Data Science and Analytics (ITLB360)
@@ -28,7 +43,7 @@ SQL · SQLite · Database Design · Normalization · ER Diagrams · DBeaver · D
 ## About This Portfolio
 
 - All projects are **individual academic works** unless explicitly stated otherwise
-- Data used in projects is **synthetic** and created for academic purposes
+- Data used in projects is either synthetic (manufactured for coursework) or publicly available, depending on the project
 - Repositories are published for **portfolio and demonstration purposes**
 - Grades, rubrics, and instructor feedback are not included
 
