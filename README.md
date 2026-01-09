@@ -13,6 +13,18 @@ This hub provides a structured overview and direct access to those projects.
 
 ## Featured Projects
 
+### Data Mining & Machine Learning — Soil Moisture (BF10) 30-Day Forecast  
+**Course:** Data Mining & Machine Learning
+
+**Description:**  
+Forecasting soil moisture (BF10) 30 days ahead using hourly environmental measurements. The project implements and compares two approaches: a tuned Random Forest regression model and a TensorFlow/Keras MLP deep learning model. The repository follows a reproducible workflow with clear separation of classical and deep learning notebooks and safe dataset handling.
+
+**Key Skills & Tools:**  
+Python · Time-Series Forecasting · Feature Engineering · Random Forest · TensorFlow/Keras · Model Validation · MAE/RMSE/R² · Reproducible Notebooks
+
+**Repository:**  
+👉 https://github.com/MGHADERI-25/data-mining-ml-soil-moisture-forecast
+
 ### Python EDA — *The Good Place* (IMDb + Episode Data)  
 **Course:** Python for Data Analytics
 
