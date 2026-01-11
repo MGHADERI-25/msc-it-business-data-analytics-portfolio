@@ -37,6 +37,17 @@ Python · pandas · numpy · matplotlib · seaborn · Jupyter · Exploratory Dat
 **Repository:**  
 👉 https://github.com/MGHADERI-25/python-data-analytics-imdb-eda
 
+### Cybersecurity Risk Intelligence — Business Intelligence with Power BI  
+**Course:** Business Intelligence for Data-Driven Management
+
+**Description:**  
+A multi-layered business intelligence project analyzing cybersecurity risk using Power BI. The work combines executive dashboards, risk-focused KPIs, and data storytelling to support data-driven management decisions. Deliverables include a Power BI dashboard, an executive presentation, and a comprehensive written report.
+
+**Key Skills & Tools:**  
+Power BI · Business Intelligence · Data Visualization · Dashboard Design · Cybersecurity Risk Analysis · Executive Reporting · Data-Driven Decision Making
+
+**Repository:**  
+👉 https://github.com/MGHADERI-25/business-intelligence-cybersecurity-risk
 
 ### Cybersecurity Incident Report System  
 **Course:** Databases for Data Science and Analytics (ITLB360)
