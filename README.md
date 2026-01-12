@@ -37,6 +37,18 @@ Python · pandas · numpy · matplotlib · seaborn · Jupyter · Exploratory Dat
 **Repository:**  
 👉 https://github.com/MGHADERI-25/python-data-analytics-imdb-eda
 
+### Public Attitudes Toward AI in Customer Service (Survey Research — Group Project)  
+**Course:** Skills for Data Analysts (SKIB353)
+
+**Description:**  
+Survey-based research project conducted in an OmniAssist Technologies client scenario to assess public attitudes toward AI in customer service. The study explores trust, perceived helpfulness, convenience, frustration, and preferences for AI-led versus human-led interactions. The repository includes the final Markdown report, presentation, and Python analysis notebook, with privacy-first handling of raw survey exports.
+
+**Key Skills & Tools:**  
+Survey Design · Data Analysis · Python · Jupyter · Visualization · Statistical Testing · GitHub Collaboration · Agile Documentation
+
+**Repository:**  
+👉 https://github.com/MGHADERI-25/skills-for-data-analysts-ai-customer-service
+
 ### Cybersecurity Risk Intelligence — Business Intelligence with Power BI  
 **Course:** Business Intelligence for Data-Driven Management
 
