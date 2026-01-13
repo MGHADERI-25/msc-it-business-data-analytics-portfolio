@@ -73,6 +73,18 @@ SQL · SQLite · Database Design · Normalization · ER Diagrams · DBeaver · D
 **Repository:**  
 👉 https://github.com/MGHADERI-25/itlb360-cybersecurity-incident-db
 
+### Decision-Making and Analytical Skills — Case Studies  
+**Course:** Decision-Making and Analytical Skills (SKIB350)
+
+**Description:**  
+A collection of applied decision analytics case studies using statistical reasoning and regression analysis to support managerial decision-making. The repository includes group and individual cases presented through professional slide decks, with a focus on interpretation, evidence-based recommendations, and communication.
+
+**Key Skills & Tools:**  
+Decision Analytics · Statistical Analysis · Regression · Business Reasoning · Excel-Based Analysis · Presentation Design
+
+**Repository:**  
+👉 https://github.com/MGHADERI-25/decision-making-analytical-skills-cases
+
 ---
 
 ## About This Portfolio
