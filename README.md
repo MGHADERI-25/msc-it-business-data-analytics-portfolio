@@ -89,7 +89,7 @@ Decision Analytics · Statistical Analysis · Regression · Business Reasoning �
 
 ## About This Portfolio
 
-- All projects are **individual academic works** unless explicitly stated otherwise
+- All projects are authored by Mohammadali Ghaderi as part of academic coursework unless explicitly stated otherwise
 - Data used in projects is either synthetic (manufactured for coursework) or publicly available, depending on the project
 - Repositories are published for **portfolio and demonstration purposes**
 - Grades, rubrics, and instructor feedback are not included
@@ -98,5 +98,6 @@ Decision Analytics · Statistical Analysis · Regression · Business Reasoning �
 
 ## Author
 
+Mohammadali Ghaderi
 MSc IT for Business Data Analytics  
 International Business School (IBS), Budapest
