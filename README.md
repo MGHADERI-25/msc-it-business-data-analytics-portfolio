@@ -13,6 +13,18 @@ This hub provides a structured overview and direct access to those projects.
 
 ## Featured Projects
 
+### Advanced Forecasting Techniques — Bike Sharing Demand Forecasting  
+**Course:** ITLB366 – Advanced Forecasting Techniques for Data Scientists
+
+**Description:**  
+Group forecasting project based on the Bike Sharing Demand dataset, focused on predicting hourly bike rental demand using a structured time-series forecasting workflow. The repository includes a shared exploratory and validation notebook together with individual modelling notebooks implementing ETS, Prophet, and Linear Regression forecasting approaches. The project emphasizes reproducible forecasting workflows, time-aware validation, benchmark comparison, and critical evaluation of forecasting performance.
+
+**Key Skills & Tools:**  
+Time-Series Forecasting · ETS Models · Prophet · Linear Regression · Walk-Forward Validation · Forecast Evaluation · MAE/RMSE/MAPE/MASE · Python · pandas · statsmodels · scikit-learn · Jupyter Notebooks · Reproducible Research
+
+**Repository:**  
+👉 https://github.com/MGHADERI-25/itlb366-advanced-forecasting-techniques
+
 ### Data Mining & Machine Learning — Soil Moisture (BF10) 30-Day Forecast  
 **Course:** Data Mining & Machine Learning
 
