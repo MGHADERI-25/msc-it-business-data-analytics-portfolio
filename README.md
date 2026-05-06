@@ -23,7 +23,7 @@ Group forecasting project based on the Bike Sharing Demand dataset, focused on p
 Time-Series Forecasting · ETS Models · Prophet · Linear Regression · Walk-Forward Validation · Forecast Evaluation · MAE/RMSE/MAPE/MASE · Python · pandas · statsmodels · scikit-learn · Jupyter Notebooks · Reproducible Research
 
 **Repository:**  
-👉 https://github.com/MGHADERI-25/itlb366-advanced-forecasting-techniques
+👉 [https://github.com/MGHADERI-25/itlb366-advanced-forecasting-techniques](https://github.com/ibs-forecasting-team3/itlb366-advanced-forecasting)
 
 ### Data Mining & Machine Learning — Soil Moisture (BF10) 30-Day Forecast  
 **Course:** Data Mining & Machine Learning
