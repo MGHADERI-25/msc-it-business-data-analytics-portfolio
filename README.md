@@ -101,6 +101,20 @@ SQL · SQLite · Database Design · Normalization · ER Diagrams · DBeaver · D
 **Repository:**  
 👉 https://github.com/MGHADERI-25/itlb360-cybersecurity-incident-db
 
+### Managing Global Brands — Dove Brand Audit and Nokia Brand Analysis  
+**Course:** Managing Global Brands
+
+**Description:**  
+Academic brand management project focused on the analysis of international brand equity, positioning, brand elements, and communication strategy. The repository includes a full brand audit of Dove as the main assessment and a series of Nokia class presentations covering brand history, brand elements, positioning/value proposition, and integrated marketing communication.
+
+The Dove brand audit applies strategic brand management concepts such as customer-based brand equity, brand awareness, brand associations, points of parity and points of difference, brand resonance, and brand audit methodology. The Nokia presentation work examines how brand history, identity, visual elements, positioning, and communication contribute to long-term brand equity.
+
+**Key Skills & Tools:**  
+Brand Audit · Strategic Brand Management · Customer-Based Brand Equity · Brand Positioning · Points of Parity · Points of Difference · Brand Elements · Integrated Marketing Communication · Brand Resonance · Academic Research · Harvard Referencing · Presentation Design
+
+**Repository:**  
+👉 https://github.com/MGHADERI-25/managing-global-brands-dove-nokia
+
 ### Decision-Making and Analytical Skills — Case Studies  
 **Course:** Decision-Making and Analytical Skills (SKIB350)
 
