@@ -1,3 +1,5 @@
+![IBS Logo](./assets/U.L.png)
+
 # MSc IT for Business Data Analytics — Project Portfolio
 
 **International Business School (IBS), Budapest**
