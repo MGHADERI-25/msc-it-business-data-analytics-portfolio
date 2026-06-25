@@ -142,6 +142,6 @@ Decision Analytics · Statistical Analysis · Regression · Business Reasoning �
 
 ## Author
 
-Mohammadali Ghaderi
+Mohammadali Ghaderi  
 MSc IT for Business Data Analytics  
 International Business School (IBS), Budapest
